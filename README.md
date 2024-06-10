@@ -1,6 +1,6 @@
-# ETL Pipeline from Crypto REST API to PostgreSQL, with Dockerized Postgres, Jupyter Notebook, and Python 
+# ETL Pipeline from Crypto REST API to Tableau (CSV), with Dockerized Postgres, Jupyter Notebook, and Python. 
 
-<img src = "img/project01-etl.png">
+<img src = "img/project01-etl-tableau.png">
 
 ## Table of Contents
 
