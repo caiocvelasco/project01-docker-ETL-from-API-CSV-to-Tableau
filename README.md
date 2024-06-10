@@ -23,6 +23,10 @@
       - devcontainer.json
     - **your_jup_notebooks/**
       - etl_pipeline.ipynb
+    - **img/**
+      - your_README_picture.png
+    - **sources/**
+      - your_saved_CSV_from_ETL.csv
     - **.env**
     - **.python-version**
     - **Dockerfile**
