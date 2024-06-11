@@ -14,6 +14,7 @@
   - [Data Source](#data-source)
   - [The ETL Jupyter Notebook](#etl-pipeline-notebook)
   - [The ETL Process](#etl-process)
+- [Tableau - Bitcoin Price Evolution](#tableau)
   
 
 ## Project Structure
@@ -24,7 +25,7 @@
     - **your_jup_notebooks/**
       - etl_pipeline.ipynb
     - **img/**
-      - your_README_picture.png
+      - your_README_images.png
     - **sources/**
       - your_saved_CSV_from_ETL.csv
     - **.env**
@@ -47,6 +48,7 @@ Make sure you have the following installed on your local development environment
 Make sure to inclue a .gitignore file with the following information:
 - *.pyc
 - .env
+- sources/*
 
 ### Environment Variables
 
@@ -93,3 +95,8 @@ Create a `.env` file in the project root with the following content:
   During the transformation process, the semi-structured data (JSON) was normalized into a python DataFrame to assume a tabular (structured) format. Then, the data follows some cleaning procedures, such as converting categorical columns into numerical ones, handling missing data, and rounding some columns to 2 decimal places. 
   
   Data Quality checks were also performed during the process, guaranteeing that the data was correctly persisted in the PostgreSQL database.
+
+  ## Tableau - Bitcoin Price Evolution
+    Here you can see a simple Line Chart done in Tableau to follow Bitcoin price evolution.
+
+    <img src = "img/project01-bitcoin-tableau.png">
