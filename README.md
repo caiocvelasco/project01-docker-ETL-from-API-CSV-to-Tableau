@@ -14,7 +14,7 @@
   - [Data Source](#Data-Source)
   - [The ETL Jupyter Notebook](#The-ETL-Jupyter-Notebook)
   - [The ETL Process](#The-ETL-Process)
-- [Tableau - Bitcoin Price Evolution](#tableau)
+- [Tableau - Bitcoin Price Evolution](#Tableau---Bitcoin-Price-Evolution)
   
 
 ## Project Structure
