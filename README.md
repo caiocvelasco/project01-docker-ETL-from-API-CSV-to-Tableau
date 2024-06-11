@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-  - [Prerequisites](#prerequisites)
-  - [Environment Variables](#environment-variables)
-  - [Build and Run](#build-and-run)
+- [Project Structure](#Project-Structure)
+- [Setup Instructions](#Setup-Instructions)
+  - [Prerequisites](#Prerequisites)
+  - [Environment Variables](#Environment-Variables)
+  - [Build and Run](#Build-and-Run)
 - [Services](#services)
-- [Project Definition](#project-definition)
-  - [Data Source](#data-source)
-  - [The ETL Jupyter Notebook](#etl-pipeline-notebook)
-  - [The ETL Process](#etl-process)
+- [Project Definition](#Project-Definition)
+  - [Data Source](#Data-Source)
+  - [The ETL Jupyter Notebook](#The-ETL-Jupyter-Notebook)
+  - [The ETL Process](#The-ETL-Process)
 - [Tableau - Bitcoin Price Evolution](#tableau)
   
 
