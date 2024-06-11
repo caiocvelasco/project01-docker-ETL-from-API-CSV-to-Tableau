@@ -97,6 +97,6 @@ Create a `.env` file in the project root with the following content:
   Data Quality checks were also performed during the process, guaranteeing that the data was correctly persisted in the PostgreSQL database.
 
   ## Tableau - Bitcoin Price Evolution
-    Here you can see a simple Line Chart done in Tableau to follow Bitcoin price evolution.
+  Here you can see a simple Line Chart done in Tableau to follow Bitcoin price evolution.
 
   <img src = "img/project01-bitcoin-tableau.png">
