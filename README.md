@@ -99,4 +99,4 @@ Create a `.env` file in the project root with the following content:
   ## Tableau - Bitcoin Price Evolution
     Here you can see a simple Line Chart done in Tableau to follow Bitcoin price evolution.
 
-    <img src = "img/project01-bitcoin-tableau.png">
+  <img src = "img/project01-bitcoin-tableau.png">
