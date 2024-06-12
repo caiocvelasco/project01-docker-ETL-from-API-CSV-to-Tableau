@@ -1,8 +1,8 @@
 {
     "name": "Python PostgreSQL",
     "dockerComposeFile": "../docker-compose.yml",
-    "workspaceFolder": "/workspace",
     "service": "python",
+    "workspaceFolder": "/workspace",
     "extensions": [
         "ms-python.python",
         "ms-toolsai.jupyter"

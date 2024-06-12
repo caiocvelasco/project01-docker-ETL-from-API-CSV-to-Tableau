@@ -10,7 +10,7 @@ services:
     container_name: postgres
     restart: unless-stopped
     env_file:
-    - ./.env
+      - ./.env
     ports:
       - "5432:5432" 
     expose:
@@ -30,7 +30,7 @@ services:
     image: python # The python service is using a custom image named "python" (check in cmd: docker ps)
     container_name: python
     env_file:
-    - ./.env
+      - ./.env
     volumes:
       - .:/workspace
       # - ~/.ssh:/root/.ssh  # Mount SSH directory into the container
